@@ -1,0 +1,40 @@
+<snippet>
+	<content><![CDATA[
+#include "iostream"
+#include "vector"
+#include "set"
+#include "cmath"
+#include "string"
+#include "unordered_map"
+#include "queue"
+#include "algorithm"
+
+#define fast_io                   ios_base::sync_with_stdio(0);cin.tie(NULL);cout.tie(NULL)
+#define testcases                 int T; cin >> T; for (int t=0; t<T; t++){solve();}
+#define int                       long long
+#define endl                      '\n'
+using namespace std;
+const int M = 1e9 + 7;
+
+void init_code(){
+	#ifndef ONLINE_JUDGE
+	freopen("input.txt", "r", stdin);
+	freopen("output.txt", "w", stdout);
+	#endif // ONLINE_JUDGE
+}
+
+void solve(){
+	$0
+}
+
+int32_t main(){
+    fast_io;
+    init_code();
+    testcases;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
