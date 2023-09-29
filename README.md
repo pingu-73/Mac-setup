@@ -1,0 +1,10 @@
+# Packages
+- BlackRain
+- BracketHighlighter
+- CppFastOlympicCoding
+- Emmet
+- Predawn
+- SideBarEnhancements
+- SublimeCodeIntel
+- SublimeLinter
+- SublimeLinter-Jshint
