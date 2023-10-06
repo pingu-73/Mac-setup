@@ -7,3 +7,4 @@
 - SideBarEnhancements
 - SublimeCodeIntel
 - SublimeLinter
+- AFileIcon
