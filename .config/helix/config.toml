@@ -1,0 +1,15 @@
+theme="kaolin-valley-dark"
+
+[editor]
+auto-save=true
+line-number="relative"
+completion-trigger-len=1
+idle-timeout=0
+mouse=false
+
+[editor.cursor-shape]
+insert="bar"
+normal="block"
+select="underline"
+
+[editor.file-picker]
